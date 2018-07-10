@@ -1,0 +1,10 @@
+D:\Project\Anjali MIS\AnjaliMIS\AnjaliMIS\AnjaliMISDB\obj\Debug\AnjaliMISDB.csprojResolveAssemblyReference.cache
+D:\Project\Anjali MIS\AnjaliMIS\AnjaliMIS\AnjaliMISDB\bin\Debug\AnjaliMISDB.dll.config
+D:\Project\Anjali MIS\AnjaliMIS\AnjaliMIS\AnjaliMISDB\bin\Debug\AnjaliMISDB.dll
+D:\Project\Anjali MIS\AnjaliMIS\AnjaliMIS\AnjaliMISDB\bin\Debug\AnjaliMISDB.pdb
+D:\Project\Anjali MIS\AnjaliMIS\AnjaliMIS\AnjaliMISDB\bin\Debug\EntityFramework.dll
+D:\Project\Anjali MIS\AnjaliMIS\AnjaliMIS\AnjaliMISDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\Anjali MIS\AnjaliMIS\AnjaliMIS\AnjaliMISDB\bin\Debug\EntityFramework.xml
+D:\Project\Anjali MIS\AnjaliMIS\AnjaliMIS\AnjaliMISDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\Anjali MIS\AnjaliMIS\AnjaliMIS\AnjaliMISDB\obj\Debug\AnjaliMISDB.dll
+D:\Project\Anjali MIS\AnjaliMIS\AnjaliMIS\AnjaliMISDB\obj\Debug\AnjaliMISDB.pdb
